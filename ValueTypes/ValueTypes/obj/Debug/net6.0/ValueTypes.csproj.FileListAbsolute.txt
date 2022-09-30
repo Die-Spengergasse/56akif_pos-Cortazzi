@@ -1,0 +1,15 @@
+C:\POS\ValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.csproj.AssemblyReference.cache
+C:\POS\ValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\POS\ValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.AssemblyInfoInputs.cache
+C:\POS\ValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.AssemblyInfo.cs
+C:\POS\ValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.csproj.CoreCompileInputs.cache
+C:\POS\ValueTypes\ValueTypes\bin\Debug\net6.0\ValueTypes.exe
+C:\POS\ValueTypes\ValueTypes\bin\Debug\net6.0\ValueTypes.deps.json
+C:\POS\ValueTypes\ValueTypes\bin\Debug\net6.0\ValueTypes.runtimeconfig.json
+C:\POS\ValueTypes\ValueTypes\bin\Debug\net6.0\ValueTypes.dll
+C:\POS\ValueTypes\ValueTypes\bin\Debug\net6.0\ValueTypes.pdb
+C:\POS\ValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.dll
+C:\POS\ValueTypes\ValueTypes\obj\Debug\net6.0\refint\ValueTypes.dll
+C:\POS\ValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.pdb
+C:\POS\ValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.genruntimeconfig.cache
+C:\POS\ValueTypes\ValueTypes\obj\Debug\net6.0\ref\ValueTypes.dll
