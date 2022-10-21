@@ -8,7 +8,6 @@ namespace Spg.FestivalTickets.Domain.Model
 {
     public class Artist
     {
-        public Genders Gender { get; set; }
         public string ArtistNumber { get; init; } = string.Empty;
         public string ArtistName { get; set; } = string.Empty ;
         public string EMail { set; get; } = string.Empty;
