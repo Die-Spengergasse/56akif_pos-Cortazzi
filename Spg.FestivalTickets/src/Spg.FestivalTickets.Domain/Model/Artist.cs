@@ -14,5 +14,6 @@ namespace Spg.FestivalTickets.Domain.Model
         public string PhoneNumber { set; get; } = string.Empty;
         public string Address { get; set; } = string.Empty;
         public List<Event> Events { set; get; } = new();
+        public decimal Fee { set; get; }
     }
 }

@@ -13,6 +13,7 @@ namespace Spg.FestivalTickets.Domain.Model
         public string Programme { get; set; } = string.Empty;
         public List<Artist> Artists { get; set; } = new();
         public Location Locations { get; set; } = default!;
+        public List<Category> Categories { get; set; } = new();   
         public DateTime Date { get; set; }
     }
 }

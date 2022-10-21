@@ -19,7 +19,7 @@ namespace Spg.FestivalTickets.Domain.Model
         public string EMail { set; get; } = string.Empty;
         public string Address { get; set; } = string.Empty;
         public Languages Language { get; set; } = Languages.German;
-        public Newsletters Newsletter { get; set; } = Newsletters.None; 
+        public Newsletters Newsletter { get; set; } = Newsletters.Online; 
         public List<Reservation> Reservations { get; set; } = new();
         public string Password { get; set; } = string.Empty ;   
     }
