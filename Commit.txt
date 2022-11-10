@@ -1,0 +1,6 @@
+git add *
+git commit -m "Abgabe ..."
+git push origin main
+
+
+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

@@ -1,0 +1,15 @@
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\bin\Debug\net6.0\Spg.Uebung.Properties.exe
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\bin\Debug\net6.0\Spg.Uebung.Properties.deps.json
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\bin\Debug\net6.0\Spg.Uebung.Properties.runtimeconfig.json
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\bin\Debug\net6.0\Spg.Uebung.Properties.dll
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\bin\Debug\net6.0\Spg.Uebung.Properties.pdb
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\obj\Debug\net6.0\Spg.Uebung.Properties.csproj.AssemblyReference.cache
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\obj\Debug\net6.0\Spg.Uebung.Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\obj\Debug\net6.0\Spg.Uebung.Properties.AssemblyInfoInputs.cache
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\obj\Debug\net6.0\Spg.Uebung.Properties.AssemblyInfo.cs
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\obj\Debug\net6.0\Spg.Uebung.Properties.csproj.CoreCompileInputs.cache
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\obj\Debug\net6.0\Spg.Uebung.Properties.dll
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\obj\Debug\net6.0\refint\Spg.Uebung.Properties.dll
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\obj\Debug\net6.0\Spg.Uebung.Properties.pdb
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\obj\Debug\net6.0\Spg.Uebung.Properties.genruntimeconfig.cache
+C:\POS\Spg.Uebung.Properties\Spg.Uebung.Properties\obj\Debug\net6.0\ref\Spg.Uebung.Properties.dll
